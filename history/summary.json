@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-db-query",
     "status": "up",
-    "uptime": "1.62%",
-    "uptimeDay": "1.62%",
-    "uptimeWeek": "1.62%",
-    "uptimeMonth": "1.62%",
-    "uptimeYear": "1.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2304,
     "timeDay": 2304,
     "timeWeek": 2304,
     "timeMonth": 2304,
     "timeYear": 2304,
-    "dailyMinutesDown": {
-      "2025-09-17": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
