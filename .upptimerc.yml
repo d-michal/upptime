@@ -3,19 +3,14 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Sčitanie 2021
+    url: https://gis.scitanie.sk/portal/apps/sites/#/obyvatelia
+  - name: Sčitanie 2021 - Server Health
+    url: https://gis.scitanie.sk/server/rest/info/healthcheck?f=pjson
+    __dangerous__body_down_if_text_missing: '"success": true'
+  - name: Sčitanie 2021 - DB Query
+    url: https://gis.scitanie.sk/server/rest/services/Hosted/obyv_roz_hustota_pocet/FeatureServer/9/query?where=1%3D1&outFields=spolu&f=json
+    __dangerous__body_down_if_text_missing: '"spolu": 5449270'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
