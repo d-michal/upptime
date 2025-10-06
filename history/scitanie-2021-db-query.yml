@@ -1,7 +1,7 @@
 url: https://gis.scitanie.sk/server/rest/services/Hosted/obyv_roz_hustota_pocet/FeatureServer/9/query?where=1%3D1&outFields=spolu&f=json
 status: up
 code: 200
-responseTime: 2150
-lastUpdated: 2025-10-05T23:24:05.068Z
+responseTime: 2422
+lastUpdated: 2025-10-06T23:27:15.655Z
 startTime: 2025-09-17T13:24:16.902Z
 generator: Upptime <https://github.com/upptime/upptime>
