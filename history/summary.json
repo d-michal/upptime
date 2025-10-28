@@ -4,10 +4,10 @@
     "url": "https://gis.scitanie.sk/portal/apps/sites/#/obyvatelia",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
@@ -15,17 +15,19 @@
     "timeWeek": 859,
     "timeMonth": 795,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 2
+    }
   },
   {
     "name": "Sčitanie 2021 - Server Health",
     "url": "https://gis.scitanie.sk/server/rest/info/healthcheck?f=pjson",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-server-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
@@ -33,17 +35,19 @@
     "timeWeek": 256,
     "timeMonth": 194,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 1
+    }
   },
   {
     "name": "Sčitanie 2021 - DB Query",
     "url": "https://gis.scitanie.sk/server/rest/services/Hosted/obyv_roz_hustota_pocet/FeatureServer/9/query?where=1%3D1&outFields=spolu&f=json",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-db-query",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2434,
@@ -51,16 +55,18 @@
     "timeWeek": 2602,
     "timeMonth": 2499,
     "timeYear": 2434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 1
+    }
   },
   {
     "name": "Územná príprava Sčitanie 2021",
     "url": "https://censusup.statistics.sk/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/censusup.statistics.sk.ico",
     "slug": "uzemna-priprava-scitanie-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 880,
     "timeMonth": 795,
     "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 0
+    }
   },
   {
     "name": "Mapy CDB",
