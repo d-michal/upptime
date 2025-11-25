@@ -4,9 +4,9 @@
     "url": "https://gis.scitanie.sk/portal/apps/sites/#/obyvatelia",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 816,
     "timeYear": 806,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73,
       "2025-10-28": 34
     }
@@ -25,11 +26,11 @@
     "url": "https://gis.scitanie.sk/server/rest/info/healthcheck?f=pjson",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-server-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 179,
     "timeDay": 182,
@@ -37,6 +38,7 @@
     "timeMonth": 168,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73,
       "2025-10-28": 34
     }
@@ -46,9 +48,9 @@
     "url": "https://gis.scitanie.sk/server/rest/services/Hosted/obyv_roz_hustota_pocet/FeatureServer/9/query?where=1%3D1&outFields=spolu&f=json",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-db-query",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.89%",
@@ -58,6 +60,7 @@
     "timeMonth": 2547,
     "timeYear": 2486,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73,
       "2025-10-28": 33
     }
@@ -67,9 +70,9 @@
     "url": "https://censusup.statistics.sk/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/censusup.statistics.sk.ico",
     "slug": "uzemna-priprava-scitanie-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.87%",
@@ -79,6 +82,7 @@
     "timeMonth": 800,
     "timeYear": 1105,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73,
       "2025-11-08": 23,
       "2025-10-28": 33
@@ -89,18 +93,19 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "98.67%",
-    "time": 963,
-    "timeDay": 1106,
-    "timeWeek": 1050,
-    "timeMonth": 906,
-    "timeYear": 963,
+    "uptimeYear": "98.68%",
+    "time": 961,
+    "timeDay": 811,
+    "timeWeek": 1021,
+    "timeMonth": 901,
+    "timeYear": 961,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-21": 61,
       "2025-11-19": 19,
       "2025-11-15": 19,
@@ -135,9 +140,9 @@
     "url": "https://mulp.nlcsk.org/webgiseditor",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
@@ -147,6 +152,7 @@
     "timeMonth": 1137,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73
     }
   },
@@ -155,9 +161,9 @@
     "url": "https://mulp.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "portal-mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
@@ -167,6 +173,7 @@
     "timeMonth": 161,
     "timeYear": 162,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73
     }
   },
@@ -175,9 +182,9 @@
     "url": "https://gis.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
@@ -187,6 +194,7 @@
     "timeMonth": 965,
     "timeYear": 976,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-14": 73
     }
   }
