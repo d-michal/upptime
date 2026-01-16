@@ -1,7 +1,7 @@
 url: https://gis.scitanie.sk/portal/apps/sites/#/obyvatelia
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-16T07:32:20.996Z
+status: up
+code: 200
+responseTime: 812
+lastUpdated: 2026-01-16T07:48:24.788Z
 startTime: 2025-09-17T13:24:13.957Z
 generator: Upptime <https://github.com/upptime/upptime>
