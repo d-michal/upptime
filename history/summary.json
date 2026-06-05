@@ -13,7 +13,7 @@
     "time": 825,
     "timeDay": 996,
     "timeWeek": 779,
-    "timeMonth": 715,
+    "timeMonth": 708,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2025-10-28": 34,
@@ -66,7 +66,7 @@
     "time": 252,
     "timeDay": 687,
     "timeWeek": 636,
-    "timeMonth": 600,
+    "timeMonth": 597,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-10-28": 34,
@@ -104,7 +104,7 @@
     "time": 2605,
     "timeDay": 3604,
     "timeWeek": 3156,
-    "timeMonth": 3035,
+    "timeMonth": 3037,
     "timeYear": 2605,
     "dailyMinutesDown": {
       "2025-10-28": 33,
@@ -143,7 +143,7 @@
     "time": 985,
     "timeDay": 962,
     "timeWeek": 766,
-    "timeMonth": 717,
+    "timeMonth": 710,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2025-10-28": 33,
@@ -181,16 +181,16 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "50.39%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "98.62%",
+    "status": "up",
+    "uptime": "98.60%",
+    "uptimeDay": "45.75%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "98.60%",
     "time": 944,
-    "timeDay": 1460,
-    "timeWeek": 1295,
-    "timeMonth": 1274,
+    "timeDay": 1338,
+    "timeWeek": 1261,
+    "timeMonth": 1261,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2025-12-12": 27,
@@ -263,7 +263,7 @@
       "2026-05-16": 57,
       "2026-05-24": 120,
       "2026-06-04": 97,
-      "2026-06-05": 714
+      "2026-06-05": 781
     }
   },
   {
@@ -280,7 +280,7 @@
     "time": 1556,
     "timeDay": 2566,
     "timeWeek": 2225,
-    "timeMonth": 1934,
+    "timeMonth": 1930,
     "timeYear": 1556,
     "dailyMinutesDown": {
       "2025-11-14": 73,
@@ -316,7 +316,7 @@
     "time": 323,
     "timeDay": 834,
     "timeWeek": 1257,
-    "timeMonth": 774,
+    "timeMonth": 794,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-11-14": 73,
@@ -344,15 +344,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
     "status": "up",
-    "uptime": "93.85%",
+    "uptime": "93.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.85%",
+    "uptimeYear": "93.86%",
     "time": 1053,
     "timeDay": 1852,
     "timeWeek": 1010,
-    "timeMonth": 907,
+    "timeMonth": 911,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-11-14": 73,
