@@ -13,7 +13,7 @@
     "time": 824,
     "timeDay": 607,
     "timeWeek": 833,
-    "timeMonth": 722,
+    "timeMonth": 715,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2025-10-28": 34,
@@ -68,7 +68,7 @@
     "time": 260,
     "timeDay": 473,
     "timeWeek": 655,
-    "timeMonth": 603,
+    "timeMonth": 599,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-10-28": 34,
@@ -108,7 +108,7 @@
     "time": 2615,
     "timeDay": 2329,
     "timeWeek": 3213,
-    "timeMonth": 3029,
+    "timeMonth": 3024,
     "timeYear": 2615,
     "dailyMinutesDown": {
       "2025-10-28": 33,
@@ -149,7 +149,7 @@
     "time": 981,
     "timeDay": 582,
     "timeWeek": 796,
-    "timeMonth": 717,
+    "timeMonth": 715,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2025-10-28": 33,
@@ -189,16 +189,16 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "47.11%",
-    "uptimeWeek": "67.32%",
-    "uptimeMonth": "91.94%",
-    "uptimeYear": "98.10%",
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "43.52%",
+    "uptimeWeek": "66.41%",
+    "uptimeMonth": "91.73%",
+    "uptimeYear": "98.08%",
     "time": 951,
-    "timeDay": 798,
-    "timeWeek": 1134,
-    "timeMonth": 1173,
+    "timeDay": 806,
+    "timeWeek": 1136,
+    "timeMonth": 1167,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-12-28": 40,
@@ -268,7 +268,7 @@
       "2026-06-06": 487,
       "2026-06-07": 716,
       "2026-06-08": 492,
-      "2026-06-09": 721
+      "2026-06-09": 813
     }
   },
   {
@@ -285,7 +285,7 @@
     "time": 1558,
     "timeDay": 1531,
     "timeWeek": 1852,
-    "timeMonth": 1887,
+    "timeMonth": 1892,
     "timeYear": 1558,
     "dailyMinutesDown": {
       "2025-11-14": 73,
@@ -322,7 +322,7 @@
     "time": 330,
     "timeDay": 573,
     "timeWeek": 1183,
-    "timeMonth": 788,
+    "timeMonth": 787,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2025-11-14": 73,
