@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021",
     "status": "up",
-    "uptime": "93.62%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "97.04%",
-    "uptimeYear": "93.62%",
+    "uptimeYear": "93.63%",
     "time": 824,
     "timeDay": 584,
-    "timeWeek": 809,
+    "timeWeek": 800,
     "timeMonth": 711,
     "timeYear": 824,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
     "uptimeYear": "99.48%",
     "time": 260,
     "timeDay": 488,
-    "timeWeek": 638,
+    "timeWeek": 630,
     "timeMonth": 596,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
     "uptimeYear": "99.48%",
     "time": 2615,
     "timeDay": 2588,
-    "timeWeek": 3151,
+    "timeWeek": 3074,
     "timeMonth": 3011,
     "timeYear": 2615,
     "dailyMinutesDown": {
@@ -148,7 +148,7 @@
     "uptimeYear": "97.19%",
     "time": 979,
     "timeDay": 579,
-    "timeWeek": 774,
+    "timeWeek": 766,
     "timeMonth": 711,
     "timeYear": 979,
     "dailyMinutesDown": {
@@ -190,14 +190,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
     "status": "down",
-    "uptime": "98.08%",
+    "uptime": "98.03%",
     "uptimeDay": "44.22%",
-    "uptimeWeek": "66.41%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "98.08%",
+    "uptimeWeek": "64.48%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "98.03%",
     "time": 950,
     "timeDay": 827,
-    "timeWeek": 1122,
+    "timeWeek": 1119,
     "timeMonth": 1158,
     "timeYear": 950,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2026-06-07": 716,
       "2026-06-08": 492,
       "2026-06-09": 813,
-      "2026-06-10": 0
+      "2026-06-10": 195
     }
   },
   {
@@ -285,7 +285,7 @@
     "uptimeYear": "99.78%",
     "time": 1559,
     "timeDay": 1973,
-    "timeWeek": 1865,
+    "timeWeek": 1776,
     "timeMonth": 1894,
     "timeYear": 1559,
     "dailyMinutesDown": {
@@ -322,7 +322,7 @@
     "uptimeYear": "99.79%",
     "time": 330,
     "timeDay": 464,
-    "timeWeek": 1103,
+    "timeWeek": 644,
     "timeMonth": 777,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
     "uptimeYear": "93.93%",
     "time": 1050,
     "timeDay": 798,
-    "timeWeek": 1014,
+    "timeWeek": 1013,
     "timeMonth": 914,
     "timeYear": 1050,
     "dailyMinutesDown": {
