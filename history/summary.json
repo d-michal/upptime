@@ -4,12 +4,12 @@
     "url": "https://gis.scitanie.sk/portal/apps/sites/#/obyvatelia",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021",
-    "status": "up",
-    "uptime": "93.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "93.73%",
+    "status": "down",
+    "uptime": "93.72%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "93.72%",
     "time": 822,
     "timeDay": 688,
     "timeWeek": 678,
@@ -51,7 +51,8 @@
       "2026-04-09": 52,
       "2026-06-02": 1124,
       "2026-06-06": 64,
-      "2026-06-07": 107
+      "2026-06-07": 107,
+      "2026-06-14": 29
     }
   },
   {
@@ -59,12 +60,12 @@
     "url": "https://gis.scitanie.sk/server/rest/info/healthcheck?f=pjson",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-server-health",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "99.48%",
     "time": 264,
     "timeDay": 564,
     "timeWeek": 539,
@@ -91,7 +92,8 @@
       "2026-04-09": 52,
       "2026-06-02": 1124,
       "2026-06-06": 63,
-      "2026-06-07": 102
+      "2026-06-07": 102,
+      "2026-06-14": 25
     }
   },
   {
@@ -99,11 +101,11 @@
     "url": "https://gis.scitanie.sk/server/rest/services/Hosted/obyv_roz_hustota_pocet/FeatureServer/9/query?where=1%3D1&outFields=spolu&f=json",
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-db-query",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.48%",
     "time": 2619,
     "timeDay": 2996,
@@ -132,7 +134,8 @@
       "2026-04-09": 51,
       "2026-06-02": 1124,
       "2026-06-06": 63,
-      "2026-06-07": 97
+      "2026-06-07": 97,
+      "2026-06-14": 20
     }
   },
   {
@@ -140,11 +143,11 @@
     "url": "https://censusup.statistics.sk/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/censusup.statistics.sk.ico",
     "slug": "uzemna-priprava-scitanie-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "97.24%",
     "time": 975,
     "timeDay": 681,
@@ -181,7 +184,8 @@
       "2026-03-21": 28,
       "2026-04-09": 51,
       "2026-06-06": 63,
-      "2026-06-07": 92
+      "2026-06-07": 92,
+      "2026-06-14": 15
     }
   },
   {
@@ -192,12 +196,12 @@
     "status": "up",
     "uptime": "97.71%",
     "uptimeDay": "62.63%",
-    "uptimeWeek": "62.79%",
+    "uptimeWeek": "63.64%",
     "uptimeMonth": "87.23%",
     "uptimeYear": "97.71%",
     "time": 952,
     "timeDay": 1266,
-    "timeWeek": 1001,
+    "timeWeek": 1002,
     "timeMonth": 1112,
     "timeYear": 952,
     "dailyMinutesDown": {
@@ -271,11 +275,11 @@
     "url": "https://mulp.nlcsk.org/webgiseditor",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.79%",
     "time": 1567,
     "timeDay": 2144,
@@ -300,7 +304,8 @@
       "2026-03-19": 54,
       "2026-03-21": 28,
       "2026-04-15": 148,
-      "2026-06-06": 63
+      "2026-06-06": 63,
+      "2026-06-14": 10
     }
   },
   {
@@ -308,11 +313,11 @@
     "url": "https://mulp.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "portal-mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.79%",
     "time": 335,
     "timeDay": 664,
@@ -337,7 +342,8 @@
       "2026-03-19": 53,
       "2026-03-21": 28,
       "2026-04-15": 147,
-      "2026-06-06": 63
+      "2026-06-06": 63,
+      "2026-06-14": 5
     }
   },
   {
@@ -345,11 +351,11 @@
     "url": "https://gis.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
-    "status": "up",
+    "status": "down",
     "uptime": "93.98%",
-    "uptimeDay": "85.63%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "85.61%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "93.98%",
     "time": 1053,
     "timeDay": 1539,
