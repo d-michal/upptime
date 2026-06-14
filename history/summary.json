@@ -189,17 +189,17 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "down",
-    "uptime": "97.76%",
-    "uptimeDay": "65.11%",
-    "uptimeWeek": "62.62%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "97.76%",
-    "time": 951,
-    "timeDay": 1187,
-    "timeWeek": 994,
-    "timeMonth": 1105,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "62.63%",
+    "uptimeWeek": "62.54%",
+    "uptimeMonth": "87.23%",
+    "uptimeYear": "97.71%",
+    "time": 952,
+    "timeDay": 1266,
+    "timeWeek": 1001,
+    "timeMonth": 1112,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2026-01-15": 22,
       "2026-01-17": 21,
@@ -263,7 +263,7 @@
       "2026-06-11": 265,
       "2026-06-12": 246,
       "2026-06-13": 506,
-      "2026-06-14": 102
+      "2026-06-14": 292
     }
   },
   {
@@ -345,17 +345,17 @@
     "url": "https://gis.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
-    "status": "up",
+    "status": "down",
     "uptime": "94.03%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "94.03%",
-    "time": 1047,
-    "timeDay": 763,
-    "timeWeek": 828,
-    "timeMonth": 914,
-    "timeYear": 1047,
+    "time": 1053,
+    "timeDay": 1822,
+    "timeWeek": 1085,
+    "timeMonth": 973,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-11-14": 73,
       "2025-12-03": 31,
@@ -389,7 +389,8 @@
       "2026-03-03": 362,
       "2026-03-21": 28,
       "2026-04-15": 146,
-      "2026-06-06": 62
+      "2026-06-06": 62,
+      "2026-06-14": 0
     }
   }
 ]
