@@ -197,17 +197,17 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "66.92%",
-    "uptimeWeek": "65.07%",
-    "uptimeMonth": "86.81%",
-    "uptimeYear": "97.69%",
-    "time": 951,
-    "timeDay": 990,
-    "timeWeek": 972,
-    "timeMonth": 1090,
-    "timeYear": 951,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "66.07%",
+    "uptimeWeek": "64.95%",
+    "uptimeMonth": "86.78%",
+    "uptimeYear": "97.68%",
+    "time": 953,
+    "timeDay": 1100,
+    "timeWeek": 990,
+    "timeMonth": 1098,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2026-01-20": 20,
       "2026-01-21": 49,
@@ -269,7 +269,7 @@
       "2026-06-12": 246,
       "2026-06-13": 506,
       "2026-06-14": 477,
-      "2026-06-15": 0
+      "2026-06-15": 13
     }
   },
   {
