@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.06%",
     "uptimeMonth": "96.60%",
-    "uptimeYear": "93.71%",
+    "uptimeYear": "93.72%",
     "time": 821,
     "timeDay": 594,
     "timeWeek": 697,
@@ -198,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "39.35%",
+    "uptime": "97.43%",
+    "uptimeDay": "25.83%",
     "uptimeWeek": "61.57%",
-    "uptimeMonth": "84.81%",
-    "uptimeYear": "97.48%",
+    "uptimeMonth": "84.37%",
+    "uptimeYear": "97.43%",
     "time": 953,
     "timeDay": 1018,
     "timeWeek": 977,
@@ -269,7 +269,7 @@
       "2026-06-13": 506,
       "2026-06-14": 477,
       "2026-06-15": 873,
-      "2026-06-16": 0
+      "2026-06-16": 195
     }
   },
   {
