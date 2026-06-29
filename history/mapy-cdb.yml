@@ -1,7 +1,7 @@
 url: https://ismcs.cdb.sk/mapviewer
-status: up
-code: 200
-responseTime: 1415
-lastUpdated: 2026-06-29T15:02:05.637Z
+status: down
+code: 403
+responseTime: 649
+lastUpdated: 2026-06-29T21:09:34.085Z
 startTime: 2025-09-17T13:46:50.600Z
 generator: Upptime <https://github.com/upptime/upptime>
