@@ -198,13 +198,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "79.37%",
+    "uptime": "96.89%",
+    "uptimeDay": "74.89%",
     "uptimeWeek": "75.59%",
-    "uptimeMonth": "76.32%",
-    "uptimeYear": "96.91%",
+    "uptimeMonth": "76.13%",
+    "uptimeYear": "96.89%",
     "time": 970,
-    "timeDay": 1183,
+    "timeDay": 1116,
     "timeWeek": 1159,
     "timeMonth": 1123,
     "timeYear": 970,
@@ -264,7 +264,7 @@
       "2026-06-27": 637,
       "2026-06-28": 440,
       "2026-06-29": 384,
-      "2026-06-30": 0
+      "2026-06-30": 84
     }
   },
   {
