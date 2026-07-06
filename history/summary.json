@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.scitanie.sk.ico",
     "slug": "scitanie-2021-server-health",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 293,
     "timeDay": 686,
     "timeWeek": 671,
@@ -201,16 +201,16 @@
     "url": "https://ismcs.cdb.sk/mapviewer",
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
-    "status": "down",
-    "uptime": "96.57%",
-    "uptimeDay": "71.42%",
-    "uptimeWeek": "75.34%",
-    "uptimeMonth": "73.66%",
-    "uptimeYear": "96.57%",
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "59.52%",
+    "uptimeWeek": "73.64%",
+    "uptimeMonth": "73.46%",
+    "uptimeYear": "96.53%",
     "time": 977,
-    "timeDay": 1135,
-    "timeWeek": 1151,
-    "timeMonth": 1117,
+    "timeDay": 1117,
+    "timeWeek": 1146,
+    "timeMonth": 1114,
     "timeYear": 977,
     "dailyMinutesDown": {
       "2026-03-10": 26,
@@ -268,7 +268,7 @@
       "2026-07-03": 484,
       "2026-07-04": 139,
       "2026-07-05": 320,
-      "2026-07-06": 91
+      "2026-07-06": 262
     }
   },
   {
@@ -276,11 +276,11 @@
     "url": "https://mulp.nlcsk.org/webgiseditor",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.75%",
     "time": 1609,
     "timeDay": 2199,
@@ -307,7 +307,8 @@
       "2026-04-15": 148,
       "2026-06-06": 63,
       "2026-06-14": 113,
-      "2026-07-02": 108
+      "2026-07-02": 108,
+      "2026-07-06": 10
     }
   },
   {
@@ -315,11 +316,11 @@
     "url": "https://mulp.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "portal-mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.75%",
     "time": 387,
     "timeDay": 813,
@@ -346,7 +347,8 @@
       "2026-04-15": 147,
       "2026-06-06": 63,
       "2026-06-14": 108,
-      "2026-07-02": 107
+      "2026-07-02": 107,
+      "2026-07-06": 5
     }
   },
   {
@@ -354,11 +356,11 @@
     "url": "https://gis.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
-    "status": "up",
+    "status": "down",
     "uptime": "94.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.94%",
-    "uptimeMonth": "98.91%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "94.38%",
     "time": 1044,
     "timeDay": 1145,
@@ -400,7 +402,8 @@
       "2026-04-15": 146,
       "2026-06-06": 62,
       "2026-06-14": 310,
-      "2026-07-02": 107
+      "2026-07-02": 107,
+      "2026-07-06": 0
     }
   }
 ]
