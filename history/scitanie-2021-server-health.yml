@@ -1,7 +1,7 @@
 url: https://gis.scitanie.sk/server/rest/info/healthcheck?f=pjson
 status: up
 code: 200
-responseTime: 930
-lastUpdated: 2026-07-15T23:55:34.595Z
+responseTime: 677
+lastUpdated: 2026-07-16T23:55:09.775Z
 startTime: 2025-09-17T13:24:15.691Z
 generator: Upptime <https://github.com/upptime/upptime>
