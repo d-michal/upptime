@@ -284,11 +284,11 @@
     "url": "https://mulp.nlcsk.org/webgiseditor",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "99.68%",
     "time": 1640,
     "timeDay": 2464,
@@ -317,7 +317,8 @@
       "2026-06-14": 113,
       "2026-07-02": 108,
       "2026-07-06": 238,
-      "2026-07-15": 202
+      "2026-07-15": 202,
+      "2026-08-02": 10
     }
   },
   {
@@ -325,11 +326,11 @@
     "url": "https://mulp.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/mulp.nlcsk.org.ico",
     "slug": "portal-mulp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.68%",
     "time": 461,
     "timeDay": 693,
@@ -358,7 +359,8 @@
       "2026-06-14": 108,
       "2026-07-02": 107,
       "2026-07-06": 233,
-      "2026-07-15": 202
+      "2026-07-15": 202,
+      "2026-08-02": 5
     }
   },
   {
@@ -366,9 +368,9 @@
     "url": "https://gis.nlcsk.org/portal/home/",
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
-    "status": "up",
+    "status": "down",
     "uptime": "94.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "94.77%",
@@ -414,7 +416,8 @@
       "2026-06-14": 310,
       "2026-07-02": 107,
       "2026-07-06": 228,
-      "2026-07-15": 202
+      "2026-07-15": 202,
+      "2026-08-02": 0
     }
   }
 ]
