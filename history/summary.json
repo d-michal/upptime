@@ -210,14 +210,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ismcs.cdb.sk.ico",
     "slug": "mapy-cdb",
     "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.55%",
+    "uptime": "97.29%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "94.38%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.29%",
     "time": 1008,
     "timeDay": 899,
-    "timeWeek": 1068,
+    "timeWeek": 1093,
     "timeMonth": 1188,
     "timeYear": 1008,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
       "2026-08-21": 33,
       "2026-08-24": 21,
       "2026-08-25": 45,
-      "2026-08-27": 0
+      "2026-08-27": 144
     }
   },
   {
@@ -367,11 +367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gis.nlcsk.org.ico",
     "slug": "portal-nlcsk",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "95.12%",
+    "uptimeYear": "95.13%",
     "time": 1024,
     "timeDay": 567,
     "timeWeek": 869,
